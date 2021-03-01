@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a lutter Weather Application
 
-![Screenshot](https://raw.githubusercontent.com/username/project/master/img/snapshot.png)
+![Screenshot](https://github.com/calebjesusegun/Caleb_Flutter_Weather_App/tree/master/img/snapshot.png)
